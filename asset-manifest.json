@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/myCV/static/css/main.2d6b6992.css",
+    "main.js": "/myCV/static/js/main.0646fe89.js",
+    "static/media/cihangonen-cv.pdf": "/myCV/static/media/cihangonen-cv.86a5585ae52d84530b4b.pdf",
+    "index.html": "/myCV/index.html",
+    "main.2d6b6992.css.map": "/myCV/static/css/main.2d6b6992.css.map",
+    "main.0646fe89.js.map": "/myCV/static/js/main.0646fe89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d6b6992.css",
+    "static/js/main.0646fe89.js"
+  ]
+}
