@@ -1,4 +1,4 @@
-import CV from "./cihangonencv.pdf";
+import CV from "./CihanGonen.pdf";
 function App() {
   return (
     <div className="App">
