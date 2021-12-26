@@ -1,4 +1,4 @@
-import CV from "./CihanGonen-React,Node.pdf";
+import CV from "./cihangonencv.pdf";
 function App() {
   return (
     <div className="App">
