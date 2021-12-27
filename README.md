@@ -1,1 +1,1 @@
-Simple site to server my CV
+Simple site to serve my CV
