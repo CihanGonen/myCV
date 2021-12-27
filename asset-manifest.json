@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/myCV/static/css/main.2d6b6992.css",
-    "main.js": "/myCV/static/js/main.3857d2bc.js",
-    "static/media/CihanGonen-React,Node.pdf": "/myCV/static/media/CihanGonen-React,Node.3f9f743eceeaab9876ed.pdf",
+    "main.js": "/myCV/static/js/main.e7e1ae1b.js",
+    "static/media/CihanGonen.pdf": "/myCV/static/media/CihanGonen.93d7cd44272209bc22e4.pdf",
     "index.html": "/myCV/index.html",
     "main.2d6b6992.css.map": "/myCV/static/css/main.2d6b6992.css.map",
-    "main.3857d2bc.js.map": "/myCV/static/js/main.3857d2bc.js.map"
+    "main.e7e1ae1b.js.map": "/myCV/static/js/main.e7e1ae1b.js.map"
   },
   "entrypoints": [
     "static/css/main.2d6b6992.css",
-    "static/js/main.3857d2bc.js"
+    "static/js/main.e7e1ae1b.js"
   ]
 }
